@@ -15,10 +15,12 @@ status:
   icon: "☕️"
 role: Senior AI Research Scientist
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Welcome to the Intelligent Systems Lab (ISLa). Our research group aims at developing methodological and applied research in Artificial Intelligence, Machine Learning and data analysis for intelligent systems. 
+  The methodologies investigated range from reinforcement learning and planning under uncertainty to multi-agent coordination, probabilistic modeling, and statistical data analysis. The application domains range from robotics and industry 4.0 to cybersecurity and cyber physical systems. 
+  The group participates in national and international projects and collaborates with Italian and foreign research centers. We are part of the Department of Computer Science at the University of Verona.
+
+**Contact:**
+To reach us, please email at [alessandro.farinelli@univr.it](mailto:alessandro.farinelli@univr.it).
 
 affiliations:
   - name: Meta AI
